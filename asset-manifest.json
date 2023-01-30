@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bike/static/css/main.ba903f7d.css",
-    "main.js": "/bike/static/js/main.67ae0518.js",
+    "main.js": "/bike/static/js/main.133a7125.js",
     "static/media/app1.mp4": "/bike/static/media/app1.0f3cbbfac4c80afbccef.mp4",
     "static/media/main.mp4": "/bike/static/media/main.d77c89c86358911eb00e.mp4",
     "static/media/preview.mp4": "/bike/static/media/preview.d77c89c86358911eb00e.mp4",
@@ -76,10 +76,10 @@
     "static/media/tirein.webp": "/bike/static/media/tirein.c7ce4f253f96fd282c2c.webp",
     "index.html": "/bike/index.html",
     "main.ba903f7d.css.map": "/bike/static/css/main.ba903f7d.css.map",
-    "main.67ae0518.js.map": "/bike/static/js/main.67ae0518.js.map"
+    "main.133a7125.js.map": "/bike/static/js/main.133a7125.js.map"
   },
   "entrypoints": [
     "static/css/main.ba903f7d.css",
-    "static/js/main.67ae0518.js"
+    "static/js/main.133a7125.js"
   ]
 }
