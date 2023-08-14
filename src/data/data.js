@@ -104,7 +104,7 @@ const data = {
     },
     work: {
       img: work,
-      title: "Cowboy for Work",
+      title: "Cowboy for Works",
       span: "Offer your organisation greater mobility and cost savings with an electric bike.",
     },
     app: {
