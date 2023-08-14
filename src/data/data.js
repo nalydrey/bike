@@ -128,7 +128,7 @@ const data = {
       preview: {
         video: prevBike4,
         title: "DREAM MACHINE",
-        span: "Cowboy 4",
+        span: "Cowboy 4Ь",
       },
       section: {
         title:
