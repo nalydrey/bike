@@ -89,7 +89,7 @@ const data = {
     },
     cowboy4: {
       img: cow4,
-      title: "Cowboy 4",
+      title: "Cowboy 4Ь",
       span: "One smooth, agile ride.",
     },
     cowboy4st: {
